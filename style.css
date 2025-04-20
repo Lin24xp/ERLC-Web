@@ -1,0 +1,24 @@
+
+body {
+  text-align: center;
+  background: #111;
+  color: white;
+  font-family: sans-serif;
+}
+
+canvas {
+  background: #222;
+  display: block;
+  margin: 20px auto;
+  border: 2px solid white;
+}
+
+.touch-controls {
+  margin-top: 10px;
+}
+
+.touch-controls button {
+  font-size: 24px;
+  margin: 5px;
+  padding: 10px 20px;
+}
